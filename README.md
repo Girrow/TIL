@@ -1,5 +1,5 @@
 # TIL
-## Today SeongYun Learned
+## Today Learned
 
 Everyday, Anycode, Anytime !
 
